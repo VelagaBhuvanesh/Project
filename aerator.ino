@@ -12,6 +12,7 @@ String incomingSMS = "";
 const int pHSensorPin = A0;
 const int TDSSensorPin = A1;
 const int LDRSensorPin = A2;
+const int LDRSensorPin = 0;
 
 // ---------------------------
 // Timing for Maintenance Reminder
